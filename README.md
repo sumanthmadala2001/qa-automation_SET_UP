@@ -77,9 +77,3 @@ npx playwright test --ui
 ```bash
 npx playwright show-report
 ```
-
----
-
-## 👤 Author
-
-* **Sumanth** - [GitHub Profile](https://github.com/madalasumanth2001)
